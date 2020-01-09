@@ -27,7 +27,7 @@ I went to OP.GG, a website about League of Legends statistics and obtain all of 
 After manually converting the data from OP.GG into the csv file, I load the data from the csv file:
 
 ```python
-dataset = pd.read_csv("D:\MLprojects\champions.csv")
+dataset = pd.read_csv("D:\MLprojects\leagueoflegends-gold\champions.csv")
 dataset.head(10)
 ```
 
@@ -45,7 +45,6 @@ dataset.head(10)
 | **9**	| AurelianSol |	52.08 |	31909 |	2.52 |	147.51 |	10487
 
 ```python
-# load the data
 dataset.tail(10)
 ```
 
