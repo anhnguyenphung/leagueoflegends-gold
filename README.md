@@ -1,5 +1,7 @@
 # League of Legends: An Analysis of Average Gold per Game of a Random Champion.
 
+![league-of-legends-photo](https://github.com/anhnguyenphung/leagueoflegends-gold/blob/master/leagueoflegends-gold-photos/league-of-legends.jpg)
+
 ---
 
 ## Introduction
@@ -12,11 +14,13 @@ For this project, I want to practice multiple linear regression, a basic machine
 * Applying Multiple Linear Regression.
 * Using Backward Elimination in Machine Learning Model.
 * Understanding the importance of P-value and Adjusted R-Squared value.
-* Practing Python through Jupyter Notebook, Sypder, PyCharm and R through R Studio.
+* Practing Python in machine learning through Jupyter Notebook.
 
 ## Obtaining the data
 
 I went to OP.GG, a website about League of Legends statistics and obtain all of the informations of the champions in North America server in Patch 9.24.
+
+![data-example](https://github.com/anhnguyenphung/leagueoflegends-gold/blob/master/leagueoflegends-gold-photos/gold-lol-example.png) 
 
 ## Importing the dataset
 
@@ -59,4 +63,4 @@ dataset.tail(10)
 | **146** |	Zyra |	51.92 |	143841 |	2.34 |	54.18 |	9305
 
 ## Fitting the dataset into Multiple Linear Regression model
-After loading the dataset, I started to fit the dataset into my Multiple Linear Regression model following step by step. More details can be found in
+After loading the dataset, I started to fit the dataset into my Multiple Linear Regression model following step by step. More details can be found in my [Jupyter Notebook file](https://github.com/anhnguyenphung/leagueoflegends-gold/blob/master/multiple_linear_regression.ipynb).
