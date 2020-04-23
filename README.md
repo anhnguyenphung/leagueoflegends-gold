@@ -18,7 +18,7 @@ For this project, I want to practice multiple linear regression, a basic machine
 
 ## Obtaining the data
 
-I went to OP.GG, a website about League of Legends statistics and obtain all of the informations of the champions in North America server in Patch 9.24.
+I went to OP.GG, a website about League of Legends statistics and obtained all of the informations of the champions in North America server in Patch 9.24.
 
 ![data-example](https://github.com/anhnguyenphung/leagueoflegends-gold/blob/master/leagueoflegends-gold-photos/gold-lol-example.png) 
 
